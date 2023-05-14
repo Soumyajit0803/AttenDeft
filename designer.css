@@ -1,0 +1,31 @@
+p {
+	font-size: 20px;
+	font-family: 'baskerville old face';
+}
+li {
+	font-size: 22px;
+	font-family: 'baskerville old face';
+}
+
+h1,p2 {
+	font-size: 30px;
+	font-family: 'baskerville old face';
+}
+div {
+    width :1000px;
+    word-wrap: break-word
+}
+table {
+	border:double 5px ;
+	width: 70%;
+	font-size : 20px;
+	border-radius:10px;
+	padding:5px;
+	border-spacing: 10px;
+}
+th {
+	font-family: 'baskerville old face';
+	font-weight: bold;
+	width: 70%;
+
+}
