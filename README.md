@@ -1,6 +1,6 @@
 # What is **AttenDeft**?
 
-*_Attendeft_* is a powerful attendance management Project cooked primarily to _counter the frustration of school teachers in handling the attendance in online classes._ This is a candid attempt towards making online teaching a cakewalk. With AttenDeft in your E-Teaching kitty, online classes will start becoming smooth!
+*_Attendeft_* is a powerful attendance management Project cooked primarily to _counter the frustration of school teachers in handling the attendance in online classes._ This is a candid attempt towards making online teaching a cakewalk. With AttenDeft in your E-Teaching kitty, online classes will surely start becoming better!
 ***
 ## Python Modules Used:
 |Task|Module(s) used|
