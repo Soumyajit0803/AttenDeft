@@ -5,10 +5,10 @@
 ## Python Modules Used:
 |Task|Module(s) used|
 |-------|------------|
-|Handling Excel and CSV files|csv, xlsxwriter, openpyxl|
+|Editing/reading Excel and CSV files|csv, xlsxwriter, openpyxl|
 |GUI|tkinter|
 |Date related tasks|calendar, datetime|
-|Others|os, pickle, subprocess, platform, shutil|
+|File-handling related tasks|os, pickle, subprocess, platform, shutil|
 
 Additionally, HTML and CSS are also used for Showing a reference(from within the app).
 ***
@@ -30,3 +30,14 @@ Users can easily change some basic settings in this section as per their needs. 
 For students taking transfer, their name has to be deleted from the next month. For the ongoing and previous months, `(TC)` should be added with their names. Also the formula cells should be suitably deleted.
 For new admissions, add the student at the suitable row according to roll, and formulas should be suitably copied to adjust the changes. This task need not be done for previous months.
 In all, you must adhere to the **permissible ways of editing.**_(Defined within the app)_
+
+## Application Screenshots
+* **Application home**
+
+* **Marking Attendance**
+
+* **Create/Edit classes**
+
+* **Analyse any class**
+
+* **More settings**
