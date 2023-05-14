@@ -5,7 +5,7 @@ from StudentAnalysis import Report
 from pickle import load
 
 class Analysis(tk.Frame):
-    '''analyse attendance for a class'''
+    '''analyse attendance for a class. Basically puts up the treeviews.'''
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
         self.controller = controller                

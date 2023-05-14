@@ -7,7 +7,7 @@ from xlsxwriter import Workbook
 
 class CustomTree(ttk.Treeview):
 	''' a custom treeview class'''
-
+	'''The background colouring will not work in Python versions > 3.7.'''
 	def __init__(self,root,column1):		
 		ttk.Treeview.__init__(self,root,columns=('#1','#2'), show='headings',height=10,style='Treeview')
 		
