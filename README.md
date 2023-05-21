@@ -11,7 +11,7 @@
 |File-handling related tasks|os, pickle, subprocess, platform, shutil|
 
 Additionally, HTML and CSS are also used for Showing a reference(from within the app).
-Please install the required dependencies for running the project:
+Please install the required dependencies for running the project via this command:
 ```
 pip install -r requirements.txt
 ```
